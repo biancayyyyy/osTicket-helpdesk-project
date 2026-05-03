@@ -82,27 +82,16 @@ https://youtu.be/y3GH70atW0c
 - Technical Documentation
 ---
 
-## 📦 Installation Resources Used
+## 🎥 Video Demos
 
-The following resources were used to deploy and configure osTicket in a Windows Azure Virtual Machine environment:
+- 📁 Installation Demo → videos/installation-demo.md  
+- 📁 Ticket Lifecycle Demo → videos/ticket-lifecycle.md  
 
-- 🗂️ osTicket Installation Files  
-  https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+---
 
-- 🧩 Microsoft Visual C++ Redistributable (VC_redist.x86)  
-  https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view
+## 📦 Installation Resources
 
-- 🗄️ MySQL Server 5.5.62 Installer  
-  https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view
-
-- 🛠️ HeidiSQL Database Tool  
-  https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
-
-- 🌐 osTicket Web Portal (Localhost - Demo Environment)  
-  http://localhost/osTicket/
-
-- 🔐 Admin Panel (Localhost - Demo Environment)  
-  http://localhost/osTicket/scp/login.php
+See: installation-resources.md
 
 ---
 
