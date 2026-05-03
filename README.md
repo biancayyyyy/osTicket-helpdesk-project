@@ -1,110 +1,129 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# 🎫 osTicket Help Desk Project
+# 🎫 osTicket Help Desk Project ☁️🖥️
 
-## 📌 Project Summary
+## 📌 Project Summary 🧠
 
-This project demonstrates the deployment and implementation of osTicket using a Microsoft Azure Virtual Machine.
+This project demonstrates the deployment and configuration of :contentReference[oaicite:0]{index=0} using a Microsoft Azure Virtual Machine.
 
-The project includes:
+It simulates a real-world IT Help Desk environment, from system setup to ticket resolution.
 
-- ☁️ Azure Virtual Machine creation
-- 🖥️ Remote Desktop setup
-- 🌐 IIS installation and configuration
-- 🐘 PHP installation and setup
-- 🗄️ MySQL database configuration
-- 🎫 osTicket installation and deployment
-- 👨‍💻 Help Desk ticket lifecycle demonstration
+### 🧩 Project Includes:
 
----
-
-## 🖥️ Environment Used
-
-- Microsoft Azure Virtual Machine
-- Windows 11 Pro
-- Remote Desktop Protocol (RDP)
+- ☁️ Azure Virtual Machine creation  
+- 🖥️ Remote Desktop connection (RDP)  
+- 🌐 IIS installation and configuration  
+- 🐘 PHP setup and dependencies  
+- 🗄️ MySQL database configuration  
+- 🎫 osTicket installation and deployment  
+- 👨‍💻 Help Desk ticket lifecycle simulation  
 
 ---
 
-## 🧰 Technologies Used
+## 🖥️ Environment Used 💻
 
-- osTicket
-- IIS
-- PHP
-- MySQL
-- HeidiSQL
-- Microsoft Azure
+- ☁️ Microsoft Azure Virtual Machine  
+- 🪟 Windows 11 Pro  
+- 🔗 Remote Desktop Protocol (RDP)  
 
 ---
 
-## 🎥 Video Demonstrations
+## 🧰 Technologies Used ⚙️
 
-### 🎬 Video 1 — Azure VM + osTicket Installation
-
-
-https://youtu.be/gbLLMJGuhfE
-
----
-
-### 🎬 Video 2 — Ticket Lifecycle Demonstration
-
-
-https://youtu.be/y3GH70atW0c
+- :contentReference[oaicite:1]{index=1}  
+- 🌐 IIS (Internet Information Services)  
+- 🐘 PHP  
+- 🗄️ MySQL  
+- 🛠️ HeidiSQL  
+- ☁️ Microsoft Azure  
 
 ---
 
-## 🧩 Demonstration Workflow
+## 🎥 Video Demonstrations 🎬
 
-1. Created Azure Virtual Machine
-2. Connected using Remote Desktop
-3. Installed IIS, PHP, and MySQL
-4. Installed osTicket
-5. Configured Help Desk system
-6. Submitted support ticket
-7. Responded as administrator
-8. Updated ticket status
-9. Resolved issue
+### ☁️ Installation & Deployment
 
----
+Click below to watch 👇  
+**[osTicket Installation Demo (Azure VM Setup + Full Deployment)](https://youtu.be/gbLLMJGuhfE)** 🎬☁️🖥️
 
-## 🛠️ Skills Demonstrated
-
-- Help Desk Ticketing Workflow
-- Azure Virtual Machine Deployment
-- Windows Administration
-- IIS Configuration
-- PHP Configuration
-- Database Configuration
-- Troubleshooting
-- Customer Support Workflow
-- Technical Documentation
----
-
-## 🎥 Video Demos
-
-- 📁 Installation Demo → videos/installation-demo.md  
-- 📁 Ticket Lifecycle Demo → videos/ticket-lifecycle.md  
+This video demonstrates:
+- ☁️ Azure Virtual Machine creation  
+- 🪟 Remote Desktop setup (RDP)  
+- 🌐 IIS installation and configuration  
+- 🐘 PHP setup and dependencies  
+- 🗄️ MySQL database configuration  
+- 🎫 Deployment of :contentReference[oaicite:0]{index=0}  
+- ✔️ Full working web portal validation  
 
 ---
 
-## 📦 Installation Resources
+### 🎫 Help Desk Ticket Lifecycle
 
-See: installation-resources.md
+Click below to watch 👇  
+**[Ticket Lifecycle Demonstration (Help Desk Workflow Simulation)](https://youtu.be/y3GH70atW0c)** 🎫🧑‍💻📨
+
+This video demonstrates:
+- 🙋 Ticket submission by end user  
+- 📥 Ticket received in admin dashboard  
+- 🧑‍💻 IT support review process  
+- 💬 Admin response and communication  
+- 📝 Internal note documentation  
+- 🔄 Ticket status updates  
+- ✅ Full resolution and closure workflow    
 
 ---
 
-## 🔐 Credentials (Lab Environment Only)
+## 🔄 Ticket Lifecycle Workflow 🧑‍💻
 
-The following credentials were used during installation and testing inside a local lab environment:
+1. 🙋 User submits support ticket  
+2. 📥 Ticket appears in admin dashboard  
+3. 🧑‍💻 IT staff reviews issue  
+4. 💬 Response is sent to user  
+5. 📝 Internal notes added  
+6. 🔄 Ticket status updated  
+7. ✅ Issue resolved and closed  
 
-- Windows VM Login:
+---
+
+## 🛠️ Skills Demonstrated 🧠
+
+- 🎫 Help Desk Ticketing Workflow  
+- ☁️ Azure Virtual Machine Deployment  
+- 🖥️ Windows Server Administration  
+- 🌐 IIS Configuration  
+- 🐘 PHP Configuration  
+- 🗄️ Database Management  
+- 🔧 Troubleshooting  
+- 📞 Customer Support Workflow  
+- 📄 Technical Documentation  
+
+---
+
+## 📦 Installation Resources 📁
+
+👉 **[View installation resources](installation-resources.md)**
+
+Includes:
+- osTicket installer  
+- MySQL setup  
+- PHP dependencies  
+- HeidiSQL tool  
+- Local test environment links  
+
+---
+
+## 🔐 Credentials (Lab Environment Only) 🔒
+
+This project was completed in a controlled lab environment for educational purposes.
+
+- 🖥️ Windows VM Login  
   - Username: labuser  
-  - Password: *(not included for security reasons)*  
+  - Password: *(hidden for security reasons)*  
 
-- MySQL Database:
+- 🗄️ MySQL Database  
   - Username: root  
-  - Password: *(not included for security reasons)*  
+  - Password: *(hidden for security reasons)*  
 
-> These credentials were used strictly for local testing inside a virtual machine and are not intended for production use.
+> ⚠️ Credentials are intentionally not exposed to follow basic security best practices.
