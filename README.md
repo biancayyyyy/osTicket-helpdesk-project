@@ -6,11 +6,13 @@
 
 ## 📌 Project Summary 🧠
 
-This project demonstrates the deployment and configuration of :contentReference[oaicite:0]{index=0} using a Microsoft Azure Virtual Machine.
+This project demonstrates the deployment and configuration of [osTicket](chatgpt://generic-entity?number=0) using a Microsoft Azure Virtual Machine.
 
 It simulates a real-world IT Help Desk environment, from system setup to ticket resolution.
 
-### 🧩 Project Includes:
+---
+
+## 🧩 Project Includes:
 
 - ☁️ Azure Virtual Machine creation  
 - 🖥️ Remote Desktop connection (RDP)  
@@ -32,7 +34,6 @@ It simulates a real-world IT Help Desk environment, from system setup to ticket 
 
 ## 🧰 Technologies Used ⚙️
 
-- :contentReference[oaicite:1]{index=1}  
 - 🌐 IIS (Internet Information Services)  
 - 🐘 PHP  
 - 🗄️ MySQL  
@@ -46,7 +47,7 @@ It simulates a real-world IT Help Desk environment, from system setup to ticket 
 ### ☁️ Installation & Deployment
 
 Click below to watch 👇  
-**[osTicket Installation Demo (Azure VM Setup + Full Deployment)](https://youtu.be/gbLLMJGuhfE)** 🎬☁️🖥️
+**[osTicket Installation Demo (Azure VM Setup + Full Deployment)](https://youtu.be/gbLLMJGuhfE)** 🎬☁️🖥️  
 
 This video demonstrates:
 - ☁️ Azure Virtual Machine creation  
@@ -54,7 +55,7 @@ This video demonstrates:
 - 🌐 IIS installation and configuration  
 - 🐘 PHP setup and dependencies  
 - 🗄️ MySQL database configuration  
-- 🎫 Deployment of :contentReference[oaicite:0]{index=0}  
+- 🎫 Deployment of [osTicket](chatgpt://generic-entity?number=2)  
 - ✔️ Full working web portal validation  
 
 ---
@@ -62,7 +63,7 @@ This video demonstrates:
 ### 🎫 Help Desk Ticket Lifecycle
 
 Click below to watch 👇  
-**[Ticket Lifecycle Demonstration (Help Desk Workflow Simulation)](https://youtu.be/y3GH70atW0c)** 🎫🧑‍💻📨
+**[Ticket Lifecycle Demonstration (Help Desk Workflow Simulation)](https://youtu.be/y3GH70atW0c)** 🎫🧑‍💻📨  
 
 This video demonstrates:
 - 🙋 Ticket submission by end user  
@@ -71,7 +72,7 @@ This video demonstrates:
 - 💬 Admin response and communication  
 - 📝 Internal note documentation  
 - 🔄 Ticket status updates  
-- ✅ Full resolution and closure workflow    
+- ✅ Full resolution and closure workflow  
 
 ---
 
@@ -103,7 +104,7 @@ This video demonstrates:
 
 ## 📦 Installation Resources 📁
 
-👉 **[View installation resources](installation-resources.md)**
+👉 **[View installation resources](installation-resources.md)**  
 
 Includes:
 - osTicket installer  
