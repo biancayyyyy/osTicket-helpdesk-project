@@ -1,12 +1,23 @@
-# 🎥 Ticket Lifecycle Demo
+# 🎥 osTicket Ticket Lifecycle Demo 🎫🧑‍💻
 
-## 🔗 Video Link
+## 📌 Overview 🧠
 
-https://youtu.be/y3GH70atW0c
+This video demonstrates a complete IT Help Desk workflow using osTicket, showing both user and administrator actions.
 
-This video demonstrates:
-- User submits ticket
-- Admin receives ticket
-- Internal notes
-- Admin response
-- Ticket resolution
+---
+
+## 🔄 Workflow Covered ⚙️
+
+- 🙋 User submits support ticket  
+- 📥 Ticket appears in admin dashboard  
+- 🧑‍💻 IT support reviews issue  
+- 💬 Admin responds to user  
+- 📝 Internal notes added  
+- 🔄 Ticket status updated  
+- ✅ Ticket resolved and closed  
+
+---
+
+## ▶️ Watch Video
+
+👉 **[Click here to watch the ticket lifecycle demo](https://youtu.be/y3GH70atW0c)**
